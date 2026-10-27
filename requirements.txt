@@ -1,0 +1,6 @@
+# Tianfun 启动器 —— 无第三方依赖
+#
+# 图形界面使用 Python 标准库 tkinter（Windows 安装 Python 时默认勾选）。
+# 如果安装 Python 时没勾 tkinter，图形界面会不可用，但命令行模式仍能正常运行。
+#
+# 支持 Windows 7 / 8 / 10 / 11，Python 3.8 及以上。

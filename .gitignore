@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# å¯åŠ¨å™¨æ•°æ®
+microsoft_tokens.json
+launcher.json
+.minecraft-launcher/
+
+# è¿è¡Œæ—¶ç›®å½•ï¼ˆä¾¿æºæ¨¡å¼çš„æ¸¸æˆç›®å½•ï¼‰
+.minecraft/
+.vcl2/
+
+# æµ‹è¯• / ä¸´æ—¶ï¼ˆåªå¿½ç•¥æ ¹ç›®å½•ä¸‹çš„ä¸´æ—¶è„šæœ¬ï¼Œåˆ«è¯¯ä¼¤ tests/ï¼‰
+/test_*.py
+*.tmp
+.testhome/
+.testmc/
+.tianfun-test-*/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+.repro*/
+
+# Ö¤ÊéÓëË½Ô¿
+.certs/
+*.pfx
+
+
+# ·şÎñ¶Ë£¨Ë½ÓĞ»ù´¡ÉèÊ©£¬²»Èë¿â£©
+server/
+
+*.pem
+*.key
+*.crt
+
+# ±¾µØ¿ª·¢¹¤¾ß£¨²»½ø²Ö¿â£©
+.devtools/
+

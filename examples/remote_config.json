@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "announcement": "欢迎使用 VCL2。1.21.1 已通过完整测试，推荐新玩家从它开始。",
+  "announcement_level": "info",
+  "recommended_version": "1.21.1",
+  "latest": {
+    "version": "1.2",
+    "url": "https://github.com/liboyang-ovo/VCL2/releases"
+  },
+  "mirrors": ["official", "bmclapi"]
+}
